@@ -1,9 +1,10 @@
 # How to build
 Add this repository sources to qmk/keybodads/keyball/keyball44/keymaps/via_keyball/.
-``
+
+```
 $ cd [root]/qmk
 $ make SKIP_GIT=yes keyball/keyball44:via_mykeyball:flash
-``
+```
 
 # Keyball series original readme
 
