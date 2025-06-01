@@ -1,8 +1,8 @@
 # How to build
-Add this repository sources to "qmk/keybodads/keyball/".
+Add this repository sources to qmk_firmware directory "/qmk/keybodads/keyball/".
 
 ```
-$ cd [root]/qmk
+$ cd /qmk
 $ make SKIP_GIT=yes keyball/keyball44:via_mykeyball:flash
 ```
 
