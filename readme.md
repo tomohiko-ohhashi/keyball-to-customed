@@ -5,10 +5,10 @@
 
 1. Command below in QMK MSYS.
 
-```
-$ cd /qmk
-$ make SKIP_GIT=yes keyball/keyball44:via_mykeyball:flash
-```
+    ```
+    $ cd /qmk
+    $ make SKIP_GIT=yes keyball/keyball44:via_mykeyball:flash
+    ```
 
 1. Execute bootleader in your keyboard.
 
