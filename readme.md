@@ -1,5 +1,5 @@
 # How to build
-Add this repository sources to qmk/keybodads/keyball/keyball44/keymaps/via_keyball/.
+Add this repository sources to "qmk/keybodads/keyball/".
 
 ```
 $ cd [root]/qmk
