@@ -4,6 +4,7 @@
 1. Set up QMK MSYS.
 
 1. Command below in QMK MSYS.
+
 ```
 $ cd /qmk
 $ make SKIP_GIT=yes keyball/keyball44:via_mykeyball:flash
