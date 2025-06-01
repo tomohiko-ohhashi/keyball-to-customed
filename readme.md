@@ -1,4 +1,12 @@
-# Keyball series
+# How to build
+Add this repository sources to qmk_firmware directory "/qmk/keybodads/keyball/".
+
+```
+$ cd /qmk
+$ make SKIP_GIT=yes keyball/keyball44:via_mykeyball:flash
+```
+
+# Keyball series original readme
 
 This directory includes source code of Keyball keyboard series:
 
